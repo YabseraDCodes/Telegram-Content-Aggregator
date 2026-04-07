@@ -1,0 +1,15 @@
+{
+    "channels": [
+      "freelance_ethio",
+      "ethiojobsofficial",
+      "vacancyforallethio",
+      "ethio_job_vacancy1",
+        "dstdst213"
+    ],
+    "important_words": ["apply", "experience", "requirements", "deadline"],
+    "categories": {
+      "software": ["developer", "backend", "frontend", "fullstack", "python", "junior", "intern", "java"],
+      "networking": ["network", "ccna", "ccnp", "routing"],
+      "data": ["data analyst", "machine learning", "ai", "data science"]
+    }
+  }
